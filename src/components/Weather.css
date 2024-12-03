@@ -140,7 +140,7 @@
     .weather-data .col img {
         width: 50px; /* Reduced size for images */
         height: 55px; /* Adjusted height */
-        margin-top: 10px;
+        margin-top: 5px;
     }
 }
 
