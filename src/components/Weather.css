@@ -141,8 +141,8 @@
         font-size: 15px;
     }
     .weather-data .col img {
-        width: 40px; /* Reduced size for images */
-        height: 50px; /* Adjusted height */
+        width: 35px; /* Reduced size for images */
+        height: 40px; /* Adjusted height */
         margin-top: 5px;
     }
 }
