@@ -106,6 +106,7 @@
     }
     .weather-icon {
         width: 80px; /* Reduced size for small screens */
+        height: 50px;
         margin: 10px 0;
     }
     .temperature {
