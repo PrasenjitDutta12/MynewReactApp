@@ -85,6 +85,7 @@
         display: flex;
         align-items: center;
         gap: 8px; /* Reduced gap for smaller screens */
+        padding-bottom: 40px;
     }
     .search-bar input {
         height: 35px; /* Slightly larger for easier tapping */
