@@ -99,7 +99,7 @@
     }
     .search-bar img {
         width: 35px; /* Slightly larger for visibility */
-        padding: 5px;
+        padding: 3px;
         border-radius: 50%;
         background: #ebfffc;
         cursor: pointer;
@@ -138,8 +138,8 @@
         font-size: 10px;
     }
     .weather-data .col img {
-        width:32px; /* Reduced size for images */
-        height: 38px; /* Adjusted height */
+        width: 35px; /* Reduced size for images */
+        height: 40px; /* Adjusted height */
         margin-top: 5px;
     }
 }
