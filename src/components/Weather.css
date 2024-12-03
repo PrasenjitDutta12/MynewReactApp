@@ -124,7 +124,8 @@
         margin-top: 30px; /* Reduced margin for compact layout */
         color: #fff;
         display: flex;
-        flex-direction: column; /* Stacked layout for small screens */
+        flex-wrap: wrap;
+       /* flex-direction: column; /* Stacked layout for small screens */
         gap: 15px; /* Add spacing between items */
     }
     .weather-data .col {
