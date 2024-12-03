@@ -139,7 +139,7 @@
     }
     .weather-data .col img {
         width:32px; /* Reduced size for images */
-        height: 48px; /* Adjusted height */
+        height: 38px; /* Adjusted height */
         margin-top: 5px;
     }
 }
