@@ -88,7 +88,7 @@
         gap: 8px; /* Reduced gap for smaller screens */
     }
     .search-bar input {
-        height: 40px; /* Slightly larger for easier tapping */
+        height: 35px; /* Slightly larger for easier tapping */
         width: 100%; /* Full-width for better usability */
         border: none;
         outline: none;
