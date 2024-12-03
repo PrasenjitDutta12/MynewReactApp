@@ -73,6 +73,7 @@
     padding: 20px;
     border-radius: 5px;
     background-image: linear-gradient(80deg,#2f4680, #500ae4);
+    object-fit: cover;
     display: flex;
     flex-direction: column;
     align-items: center;
